@@ -1,4 +1,5 @@
 {
     "status": 1, 
-    "message": "Servers are operational"
+    "message": "Servers are operational",
+    "version": "v1.16"
   }
