@@ -1,5 +1,5 @@
 {
-    "status": 1, 
-    "message": "Game is currently under rework.",
+    "status": 0, 
+    "message": "Game is running.",
     "version": "0.17"
   }
